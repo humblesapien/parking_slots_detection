@@ -24,3 +24,5 @@ Show the test image with Red & Green rectangles with center points
 
 
 
+NOTE:
+frozen_inference_graph.pb file being too large is not included in this repository
