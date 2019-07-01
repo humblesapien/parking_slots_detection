@@ -1,0 +1,8 @@
+numpy
+random
+cv2 (opencv)
+matplotlib
+webcolors
+sklearn (sci-kit learn)
+
+
